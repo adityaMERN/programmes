@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "E:\\python 3.8\\python.exe"
+    "python.pythonPath": "E:\\python 3.8\\python.exe",
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp"
+    }
 }
