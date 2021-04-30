@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=int(input())
+l=[]
+l.append(a)
+l.append(b)
+l.append(c)
+l.sort()
+print(l[1])

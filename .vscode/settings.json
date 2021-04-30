@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "E:\\python 3.8\\python.exe",
+    "python.pythonPath": "C:\\Users\\ADITYA\\anaconda3\\python.exe",
     "files.associations": {
         "iostream": "cpp",
         "*.tcc": "cpp"
